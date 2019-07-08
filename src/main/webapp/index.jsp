@@ -3,7 +3,7 @@
 <body>
 <h2>Hello World!</h2>
 <p>
-    华为公司
+    华为，构建万物互联的世界。
 </p>
 </body>
 </html>
